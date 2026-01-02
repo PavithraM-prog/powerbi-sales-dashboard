@@ -12,7 +12,7 @@ This project presents a Power BI sales dashboard with visual insights to analyze
 - overview combination insights into a dashboard
 
 ## 📄 Dashboard Report
-📎 [Download Dashboard PDF](Task7_FinalDashboard.pdf.pbix)
+📎 [Download Dashboard PDF](Task7_ FinalDashboard.pdf.pbix)
 
 ## 📊 Dashboard Preview
 ![Overview](screenshots/finaldashboard.png)
